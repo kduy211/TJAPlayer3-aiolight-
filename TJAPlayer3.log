@@ -1,0 +1,252 @@
+
+DTXMania powered by YAMAHA Silent Session Drums
+Release: 1.5.5
+
+2020/08/19 12:00:13.125 [INFO] ----------------------
+2020/08/19 12:00:13.127 [INFO] ■ アプリケーションの初期化
+2020/08/19 12:00:13.127 [INFO] OS Version: Microsoft Windows NT 6.2.9200.0
+2020/08/19 12:00:13.127 [INFO] ProcessorCount: 4
+2020/08/19 12:00:13.127 [INFO] CLR Version: 2.0.50727.9151
+2020/08/19 12:00:13.444 [INFO] スキンの初期化を行います。
+2020/08/19 12:00:13.457 [INFO]     SkinPath検出: C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\
+2020/08/19 12:00:13.458 [INFO]     SkinPath入力: C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\
+2020/08/19 12:00:13.460 [INFO]     SkinPath設定: C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\
+2020/08/19 12:00:13.469 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.469 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Move.ogg)
+2020/08/19 12:00:13.470 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.470 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Decide.ogg)
+2020/08/19 12:00:13.471 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.471 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Change.ogg)
+2020/08/19 12:00:13.472 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.472 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Cancel.ogg)
+2020/08/19 12:00:13.473 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.473 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Audience.ogg)
+2020/08/19 12:00:13.474 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.474 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Game start.ogg)
+2020/08/19 12:00:13.476 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.476 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Full combo.ogg)
+2020/08/19 12:00:13.476 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.477 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\balloon.ogg)
+2020/08/19 12:00:13.477 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.477 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\SongDecide.ogg)
+2020/08/19 12:00:13.478 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2020/08/19 12:00:13.478 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\ResultIn.ogg)
+2020/08/19 12:00:13.587 [WARNING]     SkinConfigの値 Game_Balloon_Roll_Number_Scale は整数値である必要があります。現在の値: 1.000
+2020/08/19 12:00:13.589 [WARNING]     SkinConfigの値 Game_Balloon_Balloon_Number_Scale は整数値である必要があります。現在の値: 0.879
+2020/08/19 12:00:13.593 [INFO]     スキンの初期化を完了しました。
+2020/08/19 12:00:13.593 [INFO] タイマの初期化を行います。
+2020/08/19 12:00:13.596 [INFO]     タイマの初期化を完了しました。
+2020/08/19 12:00:13.596 [INFO] FPSカウンタの初期化を行います。
+2020/08/19 12:00:13.597 [INFO]     FPSカウンタを生成しました。
+2020/08/19 12:00:13.597 [INFO] 文字コンソールの初期化を行います。
+2020/08/19 12:00:13.597 [INFO]     文字コンソールを生成しました。
+2020/08/19 12:00:13.624 [INFO]     文字コンソールを活性化しました。
+2020/08/19 12:00:13.624 [INFO]     文字コンソールの初期化を完了しました。
+2020/08/19 12:00:13.624 [INFO] DirectInput, MIDI入力の初期化を行います。
+2020/08/19 12:00:13.665 [INFO]     Keyboard を生成しました。
+2020/08/19 12:00:13.671 [INFO]     Mouse を生成しました。
+2020/08/19 12:00:13.794 [INFO]     MIDI入力デバイス数: 0
+2020/08/19 12:00:13.794 [INFO]     DirectInput の初期化を完了しました。
+2020/08/19 12:00:13.794 [INFO] パッドの初期化を行います。
+2020/08/19 12:00:13.794 [INFO]     パッドの初期化を完了しました。
+2020/08/19 12:00:13.794 [INFO] サウンドデバイスの初期化を行います。
+2020/08/19 12:00:13.807 [INFO]     BASS (WASAPI) の初期化を開始します。
+2020/08/19 12:00:14.023 [INFO]     使用デバイス: #16 : Speakers (Conexant ISST Audio), flags=BASS_DEVICE_ENABLED, BASS_DEVICE_DEFAULT, BASS_DEVICE_INIT
+2020/08/19 12:00:14.023 [INFO]     BASS を初期化しました。(WASAPI排他モード, 48000Hz, 2ch, フォーマット:BASS_WASAPI_FORMAT_32BIT, バッファ20480bytes [53ms(希望50ms)], 更新間隔3ms)
+2020/08/19 12:00:14.024 [INFO]     デバイスの最小更新時間=3ms, 既定の更新時間=10ms
+2020/08/19 12:00:14.031 [INFO]     BASS_CONFIG_UpdatePeriod=0
+2020/08/19 12:00:14.032 [INFO]     BASS_CONFIG_UpdateThreads=0
+2020/08/19 12:00:14.032 [INFO]     Initializing loudness scanning, song gain control, and sound group level control...
+2020/08/19 12:00:14.040 [INFO]         LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2020/08/19 12:00:14.050 [INFO]     Initialized loudness scanning, song gain control, and sound group level control.
+2020/08/19 12:00:14.054 [INFO]     サウンドデバイスの初期化を完了しました。
+2020/08/19 12:00:14.055 [INFO] 曲リストの初期化を行います。
+2020/08/19 12:00:14.059 [INFO]     曲リストの初期化を完了しました。
+2020/08/19 12:00:14.345 [INFO] プラグインの検索と生成を行います。
+2020/08/19 12:00:14.348 [WARNING]     プラグインフォルダが存在しません。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Plugins\)
+2020/08/19 12:00:14.349 [INFO]     プラグインの検索と生成を完了しました。
+2020/08/19 12:00:14.361 [INFO] アプリケーションの初期化を完了しました。
+2020/08/19 12:00:14.362 [INFO] ----------------------
+2020/08/19 12:00:14.362 [INFO] ■ 起動
+2020/08/19 12:00:14.362 [INFO] 起動ステージを活性化します。
+2020/08/19 12:00:14.449 [INFO]     起動ステージの活性化を完了しました。
+2020/08/19 12:00:14.506 [INFO] 0) システムサウンドを構築します。
+2020/08/19 12:00:14.507 [WARNING]     ファイルが存在しません。: Sounds\Setup BGM.ogg
+2020/08/19 12:00:14.526 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2020/08/19 12:00:14.531 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2020/08/19 12:00:14.537 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2020/08/19 12:00:14.543 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2020/08/19 12:00:14.549 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2020/08/19 12:00:14.554 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2020/08/19 12:00:14.561 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2020/08/19 12:00:14.565 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2020/08/19 12:00:14.570 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2020/08/19 12:00:14.578 [INFO]     システムサウンドを読み込みました。(Sounds\ResultIn.ogg)
+2020/08/19 12:00:14.578 [INFO] 1) songlist.dbを読み込みます。
+2020/08/19 12:00:14.647 [INFO]     songlist.db の読み込みを完了しました。[80スコア]
+2020/08/19 12:00:14.647 [INFO] 2) songs.db を読み込みます。
+2020/08/19 12:00:14.677 [INFO]     songs.db の読み込みを完了しました。[171スコア]
+2020/08/19 12:00:14.677 [INFO] 起動所要時間: 00:00:00.1708017
+2020/08/19 12:00:15.075 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\3_SongSelect\Frame_Box.png)
+2020/08/19 12:00:15.082 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\3_SongSelect\Frame_Random.png)
+2020/08/19 12:00:15.173 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\3_SongSelect\ScoreWindow_5.png)
+2020/08/19 12:00:15.174 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\3_SongSelect\ScoreWindow_6.png)
+2020/08/19 12:00:17.913 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\0\Background.png)
+2020/08/19 12:00:18.173 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\4_CourseSymbol\Tower.png)
+2020/08/19 12:00:18.173 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\4_CourseSymbol\Dan.png)
+2020/08/19 12:00:19.267 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Background.png)
+2020/08/19 12:00:19.267 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Gauge_Normal.png)
+2020/08/19 12:00:19.268 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Gauge_Reach.png)
+2020/08/19 12:00:19.268 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Gauge_Clear.png)
+2020/08/19 12:00:19.268 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Gauge_Flush.png)
+2020/08/19 12:00:19.268 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Base.png)
+2020/08/19 12:00:19.269 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Failed.png)
+2020/08/19 12:00:19.269 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Number.png)
+2020/08/19 12:00:19.269 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\ExamType.png)
+2020/08/19 12:00:19.270 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\ExamRange.png)
+2020/08/19 12:00:19.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\ExamUnit.png)
+2020/08/19 12:00:19.271 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\17_DanC\Screen.png)
+2020/08/19 12:00:19.272 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_Game\18_PuchiChara\0.png)
+2020/08/19 12:00:19.429 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\6_Result\Dan.png)
+2020/08/19 12:00:19.520 [INFO] 起動ステージを非活性化します。
+2020/08/19 12:00:19.527 [INFO]     起動ステージの非活性化を完了しました。
+2020/08/19 12:00:19.527 [INFO] ----------------------
+2020/08/19 12:00:19.527 [INFO] ■ タイトル
+2020/08/19 12:00:19.527 [INFO] タイトルステージを活性化します。
+2020/08/19 12:00:19.528 [INFO]     タイトルステージの活性化を完了しました。
+2020/08/19 12:00:22.345 [INFO] ★曲データ検索スレッドを起動しました。
+2020/08/19 12:00:22.353 [INFO] enum2) 曲データを検索します。
+2020/08/19 12:00:22.353 [INFO]     検索パス: C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\.\
+2020/08/19 12:00:22.355 [INFO]         CSound.GroupLevel set: 90
+2020/08/19 12:00:22.355 [INFO]         CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2020/08/19 12:00:22.358 [INFO]         CSound.GroupLevel set: 90
+2020/08/19 12:00:22.358 [INFO]         CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915149811213502. Summed Gain: -0.915149811213502. Safe True Peak Gain: 0. Final Gain: -0.915149811213502.
+2020/08/19 12:00:22.779 [ERROR]         System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToDouble(String value)
+   at TJAPlayer3.CDTX.t命令を挿入する(String InputText)
+   at TJAPlayer3.CDTX.t入力_行解析譜面_V4(String InputText)
+   at TJAPlayer3.CDTX.t入力_V4(String strInput)
+2020/08/19 12:00:22.779 [ERROR]         例外が発生しましたが処理を継続します。 (2da1e880-6b63-4e82-b018-bf18c3568335)
+2020/08/19 12:00:23.627 [ERROR]         CDTXStyleExtractor is returning its input value early due to an inability to determine the best rank. This can occur if a course contains no #START. (seqNo=0, C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Senbonzakura (Ura).tja)
+2020/08/19 12:00:24.886 [INFO]     曲データの検索を完了しました。[80曲80スコア]
+2020/08/19 12:00:24.886 [INFO] enum3) songs.db の情報を曲リストへ反映します。
+2020/08/19 12:00:24.893 [INFO]     曲リストへの反映を完了しました。[162/80スコア]
+2020/08/19 12:00:24.893 [INFO] 80, 162
+2020/08/19 12:00:24.893 [INFO] enum4) songs.db になかった曲データ[-82スコア]の情報をファイルから読み込んで反映します。
+2020/08/19 12:00:24.978 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Kirby's Dream Land.tja.score.ini]
+2020/08/19 12:00:24.980 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:24.980 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.002 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Tentai Kansoku\Tentai Kansoku.tja.score.ini]
+2020/08/19 12:00:25.003 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.004 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.012 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Tentai Kansoku\Tentai Kansoku.tja.score.ini]
+2020/08/19 12:00:25.012 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.012 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.018 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Tentai Kansoku\Tentai Kansoku.tja.score.ini]
+2020/08/19 12:00:25.018 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.020 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.032 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Tentai Kansoku\Tentai Kansoku.tja.score.ini]
+2020/08/19 12:00:25.032 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.032 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.056 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Zen Zen Zense\Zen Zen Zense.tja.score.ini]
+2020/08/19 12:00:25.058 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.058 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.064 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Zen Zen Zense\Zen Zen Zense.tja.score.ini]
+2020/08/19 12:00:25.064 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.064 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.074 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Zen Zen Zense\Zen Zen Zense.tja.score.ini]
+2020/08/19 12:00:25.075 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.076 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.082 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Zen Zen Zense\Zen Zen Zense.tja.score.ini]
+2020/08/19 12:00:25.082 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2020/08/19 12:00:25.082 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2020/08/19 12:00:25.082 [INFO]     曲データへの反映を完了しました。[9/-82スコア]
+2020/08/19 12:00:25.082 [INFO] enum5) 曲リストへの後処理を適用します。
+2020/08/19 12:00:25.114 [INFO]     曲リストへの後処理を完了しました。
+2020/08/19 12:00:25.114 [INFO] enum6) 曲データの情報を songs.db へ出力します。
+2020/08/19 12:00:25.148 [INFO]     songs.db への出力を完了しました。[171スコア]
+2020/08/19 12:00:25.148 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
+2020/08/19 12:00:25.200 [INFO]     songlist.db への出力を完了しました。[171スコア]
+2020/08/19 12:00:25.200 [INFO] 曲探索所要時間: 00:00:02.8479679
+2020/08/19 12:00:27.423 [INFO] タイトルステージを非活性化します。
+2020/08/19 12:00:27.424 [INFO]     タイトルステージの非活性化を完了しました。
+2020/08/19 12:00:27.425 [INFO] ----------------------
+2020/08/19 12:00:27.425 [INFO] ■ 選曲
+2020/08/19 12:00:27.426 [INFO] 選曲ステージを活性化します。
+2020/08/19 12:00:27.444 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\Screen option panels.png)
+2020/08/19 12:00:27.497 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_preimage panel.png)
+2020/08/19 12:00:27.497 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_sensor.png)
+2020/08/19 12:00:27.497 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_preimage default.png)
+2020/08/19 12:00:27.508 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_information_BG.png)
+2020/08/19 12:00:27.508 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_information.png)
+2020/08/19 12:00:27.508 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\System\TJAPlayer3 PS4 Style ver.1.02 (English)\Graphics\5_information2.png)
+2020/08/19 12:00:27.510 [INFO]     選曲ステージの活性化を完了しました。
+2020/08/19 12:00:28.438 [INFO] プレビューサウンドを生成しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Ashita Mo\Ashita Mo.ogg)
+2020/08/19 12:00:31.391 [INFO] プレビューサウンドを生成しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\1, 2, Fanclub.ogg)
+2020/08/19 12:00:36.130 [INFO] プレビューサウンドを生成しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Alien Alien\Alien Alien.ogg)
+2020/08/19 12:00:36.548 [INFO] プレビューサウンドを生成しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Lost One no Goukoku\Lost One no Goukoku.ogg)
+2020/08/19 12:00:36.997 [INFO] プレビューサウンドを生成しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Songs\Roku-Chounen to Ichiya Monogatari\Roku-Chounen to Ichiya Monogatari.ogg)
+2020/08/19 12:00:38.264 [INFO] ----------------------
+2020/08/19 12:00:38.265 [INFO] ■ アプリケーションの終了
+2020/08/19 12:00:38.265 [INFO] 曲検索actの終了処理を行います。
+2020/08/19 12:00:38.265 [INFO]     曲検索actの終了処理を完了しました。
+2020/08/19 12:00:38.265 [INFO] 現在のステージを終了します。
+2020/08/19 12:00:38.266 [INFO]     選曲ステージを非活性化します。
+2020/08/19 12:00:38.307 [INFO]         選曲ステージの非活性化を完了しました。
+2020/08/19 12:00:38.307 [INFO]     現在のステージの終了処理を完了しました。
+2020/08/19 12:00:38.307 [INFO] [Discord] Shutdowned.
+2020/08/19 12:00:38.307 [INFO] 曲リストの終了処理を行います。
+2020/08/19 12:00:38.307 [INFO]     曲リストの終了処理を完了しました。
+2020/08/19 12:00:38.375 [INFO] スキンの終了処理を行います。
+2020/08/19 12:00:38.382 [INFO]     スキンの終了処理を完了しました。
+2020/08/19 12:00:38.382 [INFO] DirectSound の終了処理を行います。
+2020/08/19 12:00:38.399 [INFO]     DirectSound の終了処理を完了しました。
+2020/08/19 12:00:38.399 [INFO] パッドの終了処理を行います。
+2020/08/19 12:00:38.399 [INFO]     パッドの終了処理を完了しました。
+2020/08/19 12:00:38.399 [INFO] DirectInput, MIDI入力の終了処理を行います。
+2020/08/19 12:00:38.409 [INFO]     DirectInput, MIDI入力の終了処理を完了しました。
+2020/08/19 12:00:38.410 [INFO] 文字コンソールの終了処理を行います。
+2020/08/19 12:00:38.411 [INFO]     文字コンソールの終了処理を完了しました。
+2020/08/19 12:00:38.411 [INFO] FPSカウンタの終了処理を行います。
+2020/08/19 12:00:38.412 [INFO]     FPSカウンタの終了処理を完了しました。
+2020/08/19 12:00:38.412 [INFO] タイマの終了処理を行います。
+2020/08/19 12:00:38.412 [INFO]     タイマの終了処理を完了しました。
+2020/08/19 12:00:38.412 [INFO] Config.ini を出力します。
+2020/08/19 12:00:38.455 [INFO]     保存しました。(C:\Users\Admin\Downloads\TJAPlayer3-Ver.1.5.5\Config.ini)
+2020/08/19 12:00:38.456 [INFO] Deinitializing loudness scanning, song gain control, and sound group level control...
+2020/08/19 12:00:38.458 [INFO] Deinitialized loudness scanning, song gain control, and sound group level control.
+2020/08/19 12:00:38.460 [INFO] アプリケーションの終了処理を完了しました。
+
+遊んでくれてありがとう！
